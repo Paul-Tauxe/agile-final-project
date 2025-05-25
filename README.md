@@ -1,2 +1,2 @@
-# agile-final-project
-This repository contains the lab for the final agile planning (see Projects).
+# agile-second-project
+This repository contains a lab on Agile planning (see Projects).
